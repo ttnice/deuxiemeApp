@@ -1,0 +1,7 @@
+{
+  "name": "deuxiemeApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
