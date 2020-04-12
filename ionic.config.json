@@ -1,7 +1,8 @@
 {
   "name": "deuxiemeApp",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
